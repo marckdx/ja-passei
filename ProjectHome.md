@@ -1,0 +1,1 @@
+Software para cálculo de notas e o quanto falta para passar
